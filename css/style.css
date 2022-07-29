@@ -105,6 +105,14 @@ body{
 .links{
     color: #3a3939;
     text-transform: uppercase;
+    text-decoration: none;
+    margin-top: 4px;
+    flex-direction: row;
+    
+}
+
+.links:hover{
+    color: #1da9cc;
 }
 
 .github{
