@@ -102,6 +102,15 @@ body{
     margin-bottom: 1rem;
 }
 
+.links{
+    color: #3a3939;
+    text-transform: uppercase;
+}
+
+.github{
+    color: #aeaeae;
+}
+
 .copyright{
     font-size: 24px;
     color: white;
